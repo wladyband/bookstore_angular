@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.FetchType"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="javax.persistence.JoinColumn"/>
+<fullyQualifiedTypeName name="com.bookstore.domain.User"/>
+<fullyQualifiedTypeName name="com.bookstore.domain.security.Authority"/>
+<fullyQualifiedTypeName name="com.bookstore.service.UserSecurityService"/>
+<fullyQualifiedTypeName name="org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder"/>
+<fullyQualifiedTypeName name="org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder"/>
+<fullyQualifiedTypeName name="com.bookstore.repository.UserRepository"/>
+<fullyQualifiedTypeName name="javax.persistence.CascadeType"/>
+<fullyQualifiedTypeName name="org.springframework.session.web.http.HeaderHttpSessionIdResolver"/>
+<fullyQualifiedTypeName name="com.bookstore.model.User"/>
+</qualifiedTypeNameHistroy>
