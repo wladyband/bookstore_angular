@@ -1985,3 +1985,180 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:01:18.574
 !MESSAGE executing callback sts4.classpath.DKoFSyGF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:03:59.632
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:03:59.653
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:03:59.660
+!MESSAGE buffering callback sts4.classpath.DKoFSyGF bookstore false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:03:59.664
+!MESSAGE executing callback sts4.classpath.DKoFSyGF 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:03:59.671
+!MESSAGE executing callback sts4.classpath.DKoFSyGF SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:06.310
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DKoFSyGF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:06.315
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.DKoFSyGF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:06.320
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:06.324
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.DKoFSyGF => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:10.446
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:10.450
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@4df5b562[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=925)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:10.454
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.826
+!MESSAGE Boot LS startup time from start to initialized: 1368ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.848
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OdXoerQYisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.852
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.856
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.861
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.865
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.870
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.874
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.877
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.OdXoerQY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.881
+!MESSAGE classpath=130 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.888
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore-angular false 130
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.893
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.899
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.906
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.909
+!MESSAGE executing callback sts4.classpath.OdXoerQY 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:06:11.930
+!MESSAGE executing callback sts4.classpath.OdXoerQY SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-24 11:20:06.670
+!MESSAGE The POM for biz.paluch.redis:lettuce:jar:5.1.7.RELEASE is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:07.458
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:07.470
+!MESSAGE classpath=122 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:07.482
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore-angular false 121
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:07.487
+!MESSAGE executing callback sts4.classpath.OdXoerQY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:07.496
+!MESSAGE executing callback sts4.classpath.OdXoerQY SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-07-24 11:20:08.282
+!MESSAGE The POM for biz.paluch.redis:lettuce:jar:5.1.7.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-07-24 11:20:08.988
+!MESSAGE Could not download sources for biz.paluch.redis:lettuce:5.1.7.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact biz.paluch.redis:lettuce:jar:sources:5.1.7.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing biz.paluch.redis:lettuce:jar:sources:5.1.7.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-07-24 11:20:08.989
+!MESSAGE Could not resolve artifact biz.paluch.redis:lettuce:jar:sources:5.1.7.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-07-24 11:20:08.989
+!MESSAGE Missing biz.paluch.redis:lettuce:jar:sources:5.1.7.RELEASE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:27.952
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:27.962
+!MESSAGE classpath=130 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:27.972
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore-angular false 130
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:27.979
+!MESSAGE executing callback sts4.classpath.OdXoerQY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:27.990
+!MESSAGE executing callback sts4.classpath.OdXoerQY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:46.309
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:46.319
+!MESSAGE classpath=133 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:46.328
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore-angular false 133
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:46.334
+!MESSAGE executing callback sts4.classpath.OdXoerQY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:46.344
+!MESSAGE executing callback sts4.classpath.OdXoerQY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:49.467
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:49.476
+!MESSAGE classpath=133 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:49.485
+!MESSAGE buffering callback sts4.classpath.OdXoerQY bookstore-angular false 133
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:49.490
+!MESSAGE executing callback sts4.classpath.OdXoerQY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-24 11:20:49.500
+!MESSAGE executing callback sts4.classpath.OdXoerQY SUCCESS [done]
